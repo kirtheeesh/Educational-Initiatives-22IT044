@@ -1,4 +1,4 @@
-# 22IT044 – Design Patterns & Smart Office Command System
+Design Patterns & Smart Office Command System
 
 This repository contains two Java-based exercises that demonstrate core software design principles and pattern implementations.  
 It is organized into two main modules:
